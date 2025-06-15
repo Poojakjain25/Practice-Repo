@@ -1,4 +1,4 @@
 # Practice-Repo
 This is my First GitHub Repository for Practice purpose.
 ---
-Author: Pooja Jain
+Author: Pooja K Jain
